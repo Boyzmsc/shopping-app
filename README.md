@@ -24,20 +24,17 @@
 
 ##### 메인 페이지
 
-
-
+![main](https://user-images.githubusercontent.com/28584213/99253872-d3c1f600-2854-11eb-9b76-a39fd7900343.png)
 
 
 ##### 장바구니 페이지
 
-
-
+![wish](https://user-images.githubusercontent.com/28584213/99253876-d4f32300-2854-11eb-9c96-a92018082f40.png)
 
 
 ##### 구매 페이지
 
-
-
+![purchase](https://user-images.githubusercontent.com/28584213/99253877-d58bb980-2854-11eb-91be-4f3b367f5bec.png)
 
 
 ### 액티비티
