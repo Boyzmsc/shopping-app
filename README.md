@@ -12,21 +12,19 @@
 
 ## 앱 구성
 
-
-![화면 캡처 2020-11-16 214658](https://user-images.githubusercontent.com/28584213/99254176-48953000-2855-11eb-8859-71fd78601cc5.png)
-
+<img src="https://user-images.githubusercontent.com/28584213/99254176-48953000-2855-11eb-8859-71fd78601cc5.png" width="500"/>
 
 ## 실행 화면
 
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
-    <img src="https://user-images.githubusercontent.com/28584213/99253872-d3c1f600-2854-11eb-9b76-a39fd7900343.png" width="200"/>
+    <img src="https://user-images.githubusercontent.com/28584213/99253872-d3c1f600-2854-11eb-9b76-a39fd7900343.png" width="300"/>
 </td>
   <td style="text-align: center">
-    <img src="https://user-images.githubusercontent.com/28584213/99253876-d4f32300-2854-11eb-9c96-a92018082f40.png" width="200"/>
+    <img src="https://user-images.githubusercontent.com/28584213/99253876-d4f32300-2854-11eb-9c96-a92018082f40.png" width="300"/>
 </td>
   <td style="text-align: center">
-<img src="https://user-images.githubusercontent.com/28584213/99253877-d58bb980-2854-11eb-91be-4f3b367f5bec.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/28584213/99253877-d58bb980-2854-11eb-91be-4f3b367f5bec.png" width="300"/>
 </td>
 </tr>
 </table></div>
